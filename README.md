@@ -3,16 +3,14 @@
 ### I'm a Front-end Developer from Madrid
 ### About me
 
-I'm a 24-year-old web developer passionate about building functional and visually appealing web applications. I’ve studied both front-end and back-end development, and I’m constantly working to improve my skills. <p align="left"> <img src="https://komarev.com/ghpvc/?username=MiguelAngelR0" alt="MiguelAngelR0" /> </p>
-🔭 I’m currently improving my skills in Angular19
+I'm a 24-year-old web developer passionate about building functional and visually appealing web applications. I’ve studied both front-end and back-end development, and I’m constantly working to improve my skills.
 
-🌱 I’m learning Node.js to expand my back-end knowledge
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MiguelAngelR0" alt="MiguelAngelR0" /> </p>
 
-👨‍💻 You can check out my [portfolio](https://miguelangelr0.github.io/my-angular-portfolio/)
-
-
-📫 How to reach me: miguelangelroesc@gmail.com
-
+- 🔭 I’m currently improving my skills in **Angular 19**
+- 🌱 I’m learning **Node.js** to expand my back-end knowledge
+- 👨‍💻 You can check out my [portfolio](https://miguelangelr0.github.io/my-angular-portfolio/)
+- 📫 How to reach me: **miguelangelroesc@gmail.com**
 
 
 
