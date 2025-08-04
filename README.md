@@ -7,8 +7,8 @@ I'm a 24-year-old web developer passionate about building functional and visuall
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=MiguelAngelR0" alt="MiguelAngelR0" /> </p>
 
-- 🔭 I’m currently improving my skills in **Angular 19**
-- 🌱 I’m learning **Node.js** to expand my back-end knowledge
+- 🔭 I’m currently improving my skills in **Angular 20**
+- 🌱 I’m learning **Node.js** with **Nest.js** to expand my back-end knowledge
 - 👨‍💻 You can check out my [portfolio](https://miguelangelr0.github.io/my-angular-portfolio/)
 - 📫 How to reach me: **miguelangelroesc@gmail.com**
 
